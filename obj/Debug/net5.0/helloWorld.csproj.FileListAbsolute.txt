@@ -1,0 +1,15 @@
+/Users/emre.demir/Projects/helloWorld/bin/Debug/net5.0/helloWorld.deps.json
+/Users/emre.demir/Projects/helloWorld/bin/Debug/net5.0/helloWorld.runtimeconfig.json
+/Users/emre.demir/Projects/helloWorld/bin/Debug/net5.0/helloWorld.runtimeconfig.dev.json
+/Users/emre.demir/Projects/helloWorld/bin/Debug/net5.0/helloWorld.dll
+/Users/emre.demir/Projects/helloWorld/bin/Debug/net5.0/ref/helloWorld.dll
+/Users/emre.demir/Projects/helloWorld/bin/Debug/net5.0/helloWorld.pdb
+/Users/emre.demir/Projects/helloWorld/obj/Debug/net5.0/helloWorld.csprojAssemblyReference.cache
+/Users/emre.demir/Projects/helloWorld/obj/Debug/net5.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emre.demir/Projects/helloWorld/obj/Debug/net5.0/helloWorld.AssemblyInfoInputs.cache
+/Users/emre.demir/Projects/helloWorld/obj/Debug/net5.0/helloWorld.AssemblyInfo.cs
+/Users/emre.demir/Projects/helloWorld/obj/Debug/net5.0/helloWorld.csproj.CoreCompileInputs.cache
+/Users/emre.demir/Projects/helloWorld/obj/Debug/net5.0/helloWorld.dll
+/Users/emre.demir/Projects/helloWorld/obj/Debug/net5.0/ref/helloWorld.dll
+/Users/emre.demir/Projects/helloWorld/obj/Debug/net5.0/helloWorld.pdb
+/Users/emre.demir/Projects/helloWorld/obj/Debug/net5.0/helloWorld.genruntimeconfig.cache
